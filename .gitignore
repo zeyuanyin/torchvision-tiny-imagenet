@@ -1,0 +1,8 @@
+*cache*/
+data/
+save*/
+*.pth
+release/
+train_tiny_kd_1.sh
+train_tiny_kd.sh
+train_tiny_mix.sh
